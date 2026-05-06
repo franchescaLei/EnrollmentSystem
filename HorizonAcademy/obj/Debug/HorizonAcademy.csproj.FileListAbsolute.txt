@@ -1,0 +1,12 @@
+D:\fianls\HorizonAcademy\HorizonAcademy\bin\Debug\HorizonAcademy.exe.config
+D:\fianls\HorizonAcademy\HorizonAcademy\bin\Debug\HorizonAcademy.exe
+D:\fianls\HorizonAcademy\HorizonAcademy\bin\Debug\HorizonAcademy.pdb
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.csproj.AssemblyReference.cache
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.Cashier.resources
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.frmStudentRegistration.resources
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.Properties.Resources.resources
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.Registrar.resources
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.csproj.GenerateResource.cache
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.csproj.CoreCompileInputs.cache
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.exe
+D:\fianls\HorizonAcademy\HorizonAcademy\obj\Debug\HorizonAcademy.pdb
